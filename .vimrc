@@ -79,7 +79,7 @@ call vundle#rc()
 
 " Statusline {
     set laststatus=2
-    let g:airline_theme='solarized'
+    let g:airline_theme='powerlineish'
 " }
 
 " Key (re)Mappings {
