@@ -38,6 +38,7 @@
         Bundle 'scrooloose/nerdcommenter'
         Bundle 'scrooloose/syntastic.git'
         Bundle 'elzr/vim-json'
+        Bundle 'fatih/vim-go'
 " }
 
 " General {
