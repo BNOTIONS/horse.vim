@@ -55,6 +55,9 @@ call vundle#rc()
     " Workaround broken colour highlighting in Haskell
     autocmd FileType haskell setlocal nospell
 
+    " JSON plugin
+    let g:vim_json_syntax_conceal = 0
+
 " }
 
 " Vim UI {
