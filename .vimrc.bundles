@@ -25,6 +25,7 @@
         Bundle 'altercation/vim-colors-solarized'
         Bundle 'tpope/vim-surround'
         Bundle 'spf13/vim-autoclose'
+        Bundle 'editorconfig/editorconfig-vim'
         Bundle 'kien/ctrlp.vim'
         Bundle 'vim-airline/vim-airline'
         Bundle 'vim-airline/vim-airline-themes'
